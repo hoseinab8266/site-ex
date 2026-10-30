@@ -1,0 +1,67 @@
+[
+  {
+    "id": "5a1ffccb-416e-4610-9253-f978b6230fdf",
+    "username": "09054012653",
+    "name": "Hosein",
+    "email": "",
+    "mobile": "09054012653",
+    "company": "",
+    "role": "buyer",
+    "active": true,
+    "avatar": "/avatars/si.svg",
+    "passwordHash": "4d1d651c-209e-4150-a9e1-eaa34194d438:7e4a0e655cbf788f952ef10cf5217ac6f8734f5e457ccfca6468ae66b6334a7940f2e2912c776c70c778e71333276f3cc3c7ea74cc1caccc8b8a5d01da52e48a",
+    "createdAt": "2026-10-30T19:24:30.266Z"
+  },
+  {
+    "id": "09ab52f5-8e07-4687-8692-4b109a0eaa40",
+    "username": "09128167732",
+    "name": "کاربر 09128167732",
+    "email": "",
+    "mobile": "09128167732",
+    "company": "",
+    "role": "buyer",
+    "active": true,
+    "avatar": "",
+    "passwordHash": "9c68d1c7-5d9f-49c4-915e-578558ec2b51:cc3e51777a1114f86dbdf6ac4eaf81de8d00001ae55848b8c25f7f98d542cf6918034a6ea85ce16cccddbcddabc6bf2ad046d7a88cc6e78e57a45516bdde6310",
+    "createdAt": "2026-10-30T14:35:04.006Z"
+  },
+  {
+    "id": "seed-admin",
+    "username": "admin",
+    "name": "مدیر سایت",
+    "email": "",
+    "mobile": "",
+    "company": "",
+    "role": "manager",
+    "active": true,
+    "avatar": "/uploads/members/998ed40d-a8e1-48f4-b463-47abcf0e35f9.png",
+    "passwordHash": "polyrez-admin-seed:cf1396b972c2aa8ea7e87c1e91f3a05e6cc3d52a63b191719a6ef62816944be734a720b27c7c9151749854d0909c9024f2fdbeb4ec70375ab7d537ce81f77e06",
+    "createdAt": "2026-10-23T17:07:28.335Z"
+  },
+  {
+    "id": "seed-sales",
+    "username": "sales",
+    "name": "کارشناس فروش",
+    "email": "sales1@polyrez.ir",
+    "mobile": "",
+    "company": "",
+    "role": "member",
+    "active": true,
+    "avatar": "",
+    "passwordHash": "polyrez-sales-seed:8961b4e78c6a119189a043a4a2d8aea03b1ddb8b0570aeba94a8614620cdb39c8301c3b0ceda3c9f40e50882e7d5071522307adfe56d08efebe60e7ec60d870e",
+    "createdAt": "2026-10-23T17:07:28.335Z"
+  },
+  {
+    "id": "seed-buyer",
+    "username": "09120000000",
+    "name": "مهدی رضایی",
+    "email": "",
+    "mobile": "09120000000",
+    "company": "",
+    "role": "buyer",
+    "active": true,
+    "avatar": "",
+    "passwordHash": "polyrez-buyer-seed:398e2c38b04b4c513b2a0cebd77528d3c73dfd4b8c874305bb3a0c2243900c16e381f916aa185bc32e0d52e1b78f04ac93ceb332082c30af68b2d50a6abd9aa0",
+    "createdAt": "2026-10-23T17:07:28.335Z"
+  }
+]

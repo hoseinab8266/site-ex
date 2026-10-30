@@ -1,0 +1,39 @@
+# وابستگی‌ها
+/node_modules
+/.pnp
+.pnp.js
+
+# خروجی ساخت و کش Next.js
+/.next/
+/out/
+next-env.d.ts
+
+# تولید
+/build
+
+# متغیرهای محیطی
+.env
+.env*.local
+
+# سیستمی
+.DS_Store
+*.pem
+Thumbs.db
+
+# گزارش‌ها
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# محتوای بارگذاری‌شده در زمان اجرا (فقط فایل‌های پوشه‌ها نگه داشته می‌شود)
+/public/uploads/*
+!/public/uploads/.gitkeep
+
+# داده‌های محلی (نباید در مخزن عمومی ثبت شوند)
+/data/*.tmp
+node_modules/
+.env
+dist/
+build/
+*.log
+.DS_Store
